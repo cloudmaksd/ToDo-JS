@@ -4,7 +4,7 @@ Flask==2.1.2
 Flask-Autodoc==0.1.2
 Flask-Cors==3.0.10
 Flask-SocketIO==5.1.2
-gunicorn==20.1.0
+gunicorn==21.2.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
